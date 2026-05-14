@@ -25,6 +25,9 @@
 
 ---
 
+
+- [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor): Real-time monitoring dashboard for OpenClaw AI agents — token usage, session tracking, 7-day trends, multi-model support.
+
 ## Contents
 
 - [GNAP](https://github.com/farol-team/gnap) — Git-Native Agent Protocol: coordinate AI agent teams with 4 JSON files in a git repo. No server, no database. Any agent that can git push can participate. MIT licensed.
